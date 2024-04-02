@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 testing
 
 This is a Change made by Joanne.
+=======
+Ok, this is the Real Paul!
+My name is Paul. My favorite type of pizza is jalapenos!
+
+Now I made another change.
+>>>>>>> e2e5317a083d598e600c27b06ff1651d68a2b371
